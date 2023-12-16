@@ -7,7 +7,14 @@ body {
   background-color: rgb(149, 228, 253);
 }
 
-
+.set-message-btn{
+margin-top: 25px !important;
+margin-left: 15px;
+background:linear-gradient(to top,rgb(134, 134, 178),rgb(11, 93, 100));
+border: none;
+border-radius: 10px;
+color: white;
+}
 
 .nav-link{
     color:rgb(0, 67, 74);
@@ -68,4 +75,14 @@ body {
   }
   .btn:hover{
     background:linear-gradient(to bottom,rgb(134, 134, 178),rgb(11, 93, 100));
+  }
+  .link{
+    color: white;
+   text-decoration: none;
+  }
+  .intro{
+    margin-left: 15px;
+  }
+  .sec{
+    margin-left: 15px;
   }
